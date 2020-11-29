@@ -1,7 +1,6 @@
 #Answered by Sulaiman Hawibowo
 #From Dataset Superstore Simple
 
-
 case_6 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 library(ggplot2)
