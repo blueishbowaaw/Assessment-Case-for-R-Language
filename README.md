@@ -1,2 +1,2 @@
 # Cases R Language
-This are My Exercise of Answering Assessment Case for R Language Programming Data
+These are My Exercise of Answering Assessment Case for R Language Programming Data
