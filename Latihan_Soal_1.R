@@ -1,3 +1,6 @@
+#Answered by Sulaiman Hawibowo
+#From Dataset Superstore Simple
+
 tugas_1 = read.csv('dataset_superstore_simple.csv')
 
 library(dplyr)
