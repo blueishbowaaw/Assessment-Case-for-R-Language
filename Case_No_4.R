@@ -1,3 +1,7 @@
+
+#Answered by Sulaiman Hawibowo
+#From Dataset Superstore Simple
+
 case_4 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 step1 = case_4%>%group_by(customer_id)%>%
