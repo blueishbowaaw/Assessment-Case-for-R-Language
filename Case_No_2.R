@@ -1,3 +1,6 @@
+#Answered by Sulaiman Hawibowo
+#From Dataset Superstore Simple
+
 tugas_2 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 jawaban_nomor_2 = tugas_2%>%
