@@ -1,6 +1,8 @@
 #Answered by Sulaiman Hawibowo
 #From Dataset Superstore Simple
 
+Case1 = Mencari Customer_Id yang memiliki sales paling besar
+
 case_1 = read.csv('dataset_superstore_simple.csv')
 
 library(dplyr)
