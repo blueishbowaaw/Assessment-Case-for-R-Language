@@ -2,6 +2,7 @@
 #Answered by Sulaiman Hawibowo
 #From Dataset Superstore Simple
 
+#Case4 = Antara 3 customer_id ini, mana yang total sales-nya paling banyak: JE-16165,KH-16510, AD-10180?
 case_4 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 step1 = case_4%>%group_by(customer_id)%>%
