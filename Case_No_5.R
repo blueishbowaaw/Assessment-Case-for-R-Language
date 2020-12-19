@@ -1,6 +1,8 @@
 #Answered by Sulaiman Hawibowo
 #From Dataset Superstore Simple
 
+#Buatlah data frame bernama ‘yearly_sales’ yang berisi total sales, jumlah customers, dan total profit tiap tahun. Tahun berapa profit tertinggi diperoleh?
+
 case_5 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 
