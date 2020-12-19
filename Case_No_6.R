@@ -1,6 +1,7 @@
 #Answered by Sulaiman Hawibowo
 #From Dataset Superstore Simple
 
+#Buatlah scatterplot antara sales dan profit untuk data di tahun 2014-2015 saja, bedakan warnanya antara tahun 2014 dan tahun 2015. Beri judul ‘Sales vs Profit 2014-2015’!
 case_6 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 library(ggplot2)
