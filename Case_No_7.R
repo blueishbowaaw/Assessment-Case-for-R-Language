@@ -1,6 +1,7 @@
 #Answered by Sulaiman Hawibowo
 #From Dataset Superstore Simple
 
+#Buatlah barchart yang berisi total profit dari 10 customer dengan total sales tertinggi di tahun 2015!
 case_7 = read.csv("dataset_superstore_simple.csv")
 library(dplyr)
 library(ggplot2)
